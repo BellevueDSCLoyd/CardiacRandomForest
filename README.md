@@ -8,7 +8,7 @@ This model was trained using a random forest model to predict cardiac disease.
 
 ## Code
 
-The [code](code/Finalproject.ipynb) was created in python using Jupyter notebook.
+The [code](code/Cardio.ipynb) was created in python using Jupyter notebook.
 
 ## Documentation
 
