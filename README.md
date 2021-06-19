@@ -6,6 +6,10 @@
 
 This model was trained using a random forest model to predict cardiac disease. 
 
+## Data
+
+[Kaggle Data Set](https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final)
+
 ## Code
 
 The [code](code/FinalProject.ipynb) was created in python using Jupyter notebook.
