@@ -5,3 +5,20 @@
 ## Description
 
 This model was trained using a random forest model to predict cardiac disease. 
+
+## Code
+
+The [code](code/Finalproject.ipynb) was created in python using Jupyter notebook.
+
+## Documentation
+
+A final [summary](docs/FinalCardiac.pdf) outlines the work.
+
+## Models
+
+The pickle files can be found [here](pickle).
+
+## Tools 
+ 
+* Python
+* Jupyter Notebook
