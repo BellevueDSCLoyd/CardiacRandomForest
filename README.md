@@ -12,7 +12,7 @@ The [code](code/FinalProject.ipynb) was created in python using Jupyter notebook
 
 ## Documentation
 
-A final [summary](docs/FinalCardio.pdf) outlines the work.
+A final [summary](docs/FinalProject.pdf) outlines the work.
 
 ## Models
 
