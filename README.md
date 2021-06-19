@@ -14,6 +14,8 @@ This model was trained using a random forest model to predict cardiac disease.
 
 The [code](code/FinalProject.ipynb) was created in python using Jupyter notebook.
 
+If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/CardiacRandomForest/blob/master/code/FinalProject.ipynb)
+
 ## Documentation
 
 A final [summary](docs/FinalProject.pdf) outlines the work.
