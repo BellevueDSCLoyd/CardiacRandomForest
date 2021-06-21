@@ -12,7 +12,7 @@ This model was trained using a random forest model to predict cardiac disease.
 
 ## Code
 
-The [code](https://ghttps://github.com/SDLoyd/CardiacRandomForest/tree/main/code/FinalProject.ipynb) was created in python using Jupyter notebook.
+The [code](https://github.com/SDLoyd/CardiacRandomForest/tree/main/code/FinalProject.ipynb) was created in python using Jupyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/CardiacRandomForest/blob/master/code/FinalProject.ipynb).
 
