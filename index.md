@@ -12,7 +12,7 @@ This model was trained using a random forest model to predict cardiac disease.
 
 ## Code
 
-The [code](https://github.com/SDLoyd/CardiacRandomForest/tree/main/code/FinalProject.ipynb) was created in python using Jupyter notebook.
+The [code](https://github.com/SDLoyd/CardiacRandomForest/blob/master/code/FinalProject.ipynb) was created in python using Jupyter notebook.
 
 If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/CardiacRandomForest/blob/master/code/FinalProject.ipynb).
 
@@ -22,7 +22,7 @@ A final [summary](docs/FinalProject.pdf) outlines the work.
 
 ## Models
 
-The pickle files can be found [here](https://github.com/SDLoyd/CardiacRandomForest/tree/main/pickle/).
+The pickle files can be found [here](https://github.com/SDLoyd/CardiacRandomForest/tree/master/pickle).
 
 ## Tools 
  
