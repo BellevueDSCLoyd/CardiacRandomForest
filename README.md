@@ -10,6 +10,11 @@ This model was trained using a random forest model to predict cardiac disease.
 
 [Kaggle Data Set](https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final)
 
+## EDA 
+
+A pandas-profiling [report](https://sdloyd.github.io/CardiacRandomForest/pandasprofile/rfcardio-pandas-profile-report.html) is available.
+
+
 ## Code
 
 The [code](code/FinalProject.ipynb) was created in python using Jupyter notebook.
@@ -34,3 +39,8 @@ Try [Anaconda](https://www.anaconda.com/).
  
 * Python
 * Jupyter Notebook
+
+## Credits
+
+_Forest [image](https://unsplash.com/photos/eGD69I3ODC4) by Michael Krahn at [Unsplash](https://unsplash.com/)_
+
