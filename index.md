@@ -8,7 +8,7 @@ This model was trained using a random forest model to predict cardiac disease.
 
 ## Data
 
-[Kaggle Data Set](https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final)
+The Kaggle [data](https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final) provided by [Manu Siddhartha](https://www.kaggle.com/sid321axn).
 
 ## EDA 
 
